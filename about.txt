@@ -1,4 +1,0 @@
-This game is known as Tic-tac-toe
-It is played between two player
-One player plays for 'X'
-other player plays for 'O'
